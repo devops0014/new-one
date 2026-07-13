@@ -1,0 +1,10 @@
+1. What is your role and responsibility in your current or previous project?
+Answer:
+I worked as a DevOps Engineer. My tasks included managing cloud infrastructure, setting up CI/CD pipelines, using Docker and Kubernetes, writing automation scripts with Terraform, and monitoring systems. I also supported application deployments.
+2. What AWS services have you used in your project and how?
+Answer:
+I used EC2 for virtual machines, S3 for storing files, RDS for databases, VPC for networking, IAM for user access control, CloudWatch for monitoring, and Lambda for serverless tasks. I managed them mostly using Terraform.
+3. How would you rate your Linux skills?
+Answer:
+I would rate myself 7 or 8 out of 10. I can work well with the terminal, run system commands, write shell scripts, and handle file permissions, services, and logs.
+
